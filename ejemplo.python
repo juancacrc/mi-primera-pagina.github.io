@@ -1,0 +1,8 @@
+# se representa ejemplo de variables #
+
+edadUsuario = 32
+ptint(¨la edad del usuario es¨, edadUsuario)
+if edadUsuario >= 18:
+    print(¨el usuario es mayor de edad.¨)
+else:
+    print(¨el usuario es menor de edad.¨)
