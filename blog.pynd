@@ -1,0 +1,124 @@
+Unidad 1 – Fundamentos de Programación
+1. Algoritmos
+1.1 Partes de un algoritmo
+
+Un algoritmo está compuesto por:
+
+Entradas: Datos que recibe.
+
+Procesos: Operaciones o pasos que transforman las entradas.
+
+Salida: Resultado final después de ejecutar el proceso.
+
+Ejemplo simple:
+Entrada: número.
+Proceso: multiplicarlo por 2.
+Salida: número multiplicado por 2.
+
+1.2 Condiciones de un algoritmo
+
+Todo algoritmo debe cumplir:
+
+Resolver un problema: Tiene un propósito claro.
+
+Ser finito: Debe terminar en algún momento.
+
+Tener pasos definidos y ordenados.
+
+Interactuar con datos externos y/o variables: Recibe y usa datos que pueden cambiar.
+
+2. Lenguajes de programación
+2.1 Según su forma de ejecución
+
+Compilado:
+Convierte el código a binarios nativos que ejecuta el sistema operativo.
+Ejemplos: C, C++, Rust.
+
+Interpretado:
+Otro programa (intérprete) lee y ejecuta línea por línea.
+Ejemplos: Python, JavaScript, PHP.
+
+Intermedio (Híbrido):
+Se compila a un lenguaje intermedio y luego se ejecuta en una máquina virtual.
+Ejemplos: Java (bytecode), C# (.NET CLR).
+
+2.2 Según su nivel de abstracción
+
+Alto nivel:
+Se parece al lenguaje humano, más fácil de aprender.
+Ejemplos: Python, Java, C#, JavaScript.
+
+Bajo nivel:
+Cercano al hardware: instrucciones específicas de la máquina.
+Ejemplos: Ensamblador, lenguaje máquina.
+
+3. Variables y constantes
+Variable:
+
+Espacio donde se almacena información que puede cambiar durante la ejecución.
+
+Constante:
+
+Valor fijo que no se modifica después de ser declarado.
+
+4. Tipos de datos
+4.1 Tipos de datos comunes en programación
+
+Numérico entero (int)
+
+Numérico decimal (float, double)
+
+Cadena de texto (string)
+
+Booleano (true/false)
+
+Fecha (date/time)
+
+Binario (0 y 1, o datos binarios)
+
+4.2 Tipos de datos en Python
+
+Además de los anteriores, Python incluye:
+
+Numéricos complejos: 3 + 4j
+
+Tupla:
+Estructura inmutable (no cambia).
+Ej.: (1, 2, 3)
+
+Lista:
+Colección mutable.
+Ej.: [1, 2, 3]
+
+Diccionario:
+Pares clave–valor.
+Ej.: {"nombre": "Juan", "edad": 25}
+
+5. Tipos de acciones y procesamiento
+5.1 Instrucciones lógicas
+
+Permiten tomar decisiones:
+
+if, else, elif
+
+comparaciones (>, <, ==, !=)
+
+5.2 Instrucciones matemáticas
+
+Operaciones aritméticas como:
+
+suma (+), resta (–), multiplicación (*), división (/), módulo (%)
+
+5.3 Operadores
+
+Incluyen:
+
+Aritméticos: +, -, *, /, //, %, **
+
+Relacionales: >, <, >=, <=, ==, !=
+
+Lógicos: and, or, not
+
+Asignación: =, +=, -=, *=, etc.
+# Se hace uso de la IA para mejorar la presentación del blog en markdown:
+https://chatgpt.com/share/693b6b62-9bd8-800e-b98b-ab1ae059a109
